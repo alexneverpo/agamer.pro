@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{QeBL:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return o}));var r=t("q1tI"),u=t.n(r);function o(){return u.a.createElement("div",null,"A Gamer.Pro!")}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-6f9d6745b5808347bed5.js.map
